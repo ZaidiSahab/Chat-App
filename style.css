@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 0, 0);
+color: rgb(0, 0, 0);
+background-image: url("https://img.freepik.com/premium-vector/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: right; 
+ height: 300px;
+}
+
+#m{
+/* width:  fit-content; */
+
+/* background-size: contain; */
+
+}
